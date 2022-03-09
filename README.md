@@ -6,7 +6,8 @@ Project Description
 Link - 123
 
 Screenshots
-![js-hw-1 screenshot 1](https://user-images.githubusercontent.com/99297739/157349160-4ec4f742-a996-4cbd-913b-6b5c1b9e629d.PNG)
-![js-hw-1 screenshot 2](https://user-images.githubusercontent.com/99297739/157349181-377a7691-7687-4715-8a69-5ba4a14c0149.PNG)
+![H1-refactoring-sample-1](https://user-images.githubusercontent.com/99297739/157364785-5cc759b1-9bd6-4bac-b8ff-20193134aa5c.PNG)
+![h1-refactoring-sample-2](https://user-images.githubusercontent.com/99297739/157364799-0a6df46e-29ed-4dfc-87a1-1923e7de6bdc.PNG)
+![H1-refactoring-sample-3](https://user-images.githubusercontent.com/99297739/157364806-83fa9052-0947-496f-aefd-09a02432fd52.PNG)
 
 This project/repo uses MIT Licensing.
