@@ -1,4 +1,4 @@
-# js-hw-1
+# H1-refactoring-sample
 
 I refactored existing code for a client per their wishes. Specifically, I replaced div elements for semantic elements within the html, editing the corresponding css code as well. I also made sure to tidy up the nesting of the html code. Finally, I left comments on my changes in green underneath appropriate lines in the css file. 
   
