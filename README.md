@@ -3,7 +3,8 @@
 I refactored existing code for a client per their wishes. Specifically, I replaced div elements for semantic elements within the html, editing the corresponding css code as well. I also made sure to tidy up the nesting of the html code. Finally, I left comments on my changes in green underneath appropriate lines in the css file. 
   
 Repo Link: https://github.com/JS19191898/H1-refactoring-sample.git
-GitHub Page Link: 123
+
+GitHub Page Link: https://js19191898.github.io/H1-refactoring-sample/
 
 Screenshots
 ![H1-refactoring-sample-1](https://user-images.githubusercontent.com/99297739/157364785-5cc759b1-9bd6-4bac-b8ff-20193134aa5c.PNG)
